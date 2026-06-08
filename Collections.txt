@@ -1,0 +1,534 @@
+Streaming Services
+- Netflix
+- Prime Video
+- Apple TV+
+- Disney+
+- HBO Max
+- Paramount+
+- Peacock
+- Hulu
+
+Anime
+- MAL
+- Crunchyroll
+- Genre's
+- Studio's
+
+By Demand
+- Popular Shows
+- Popular Movies
+- Latest Movies
+- Latest Shows
+- Trending Shows
+- Trending Movies
+
+Genres
+- Sci-Fi
+- Action
+- Comedy
+- Thriller
+- Drama
+- Romance
+- Horror
+- Crime
+- Animation
+- Documentary
+- Fantasy
+- Reality TV
+
+Studios
+- Marvel
+- DC
+- Star Wars
+- Studio Ghibli
+- Pixar
+- DreamWorks
+- A24
+- Blumhouse
+- Warner Bros
+- Universal
+- Sony Pictures
+- Paramount
+- 20th Century
+- New Line Cinema
+- Canal+
+- Lionsgate
+
+Decades
+- 20's
+- 10's
+- 00's
+- 90's
+- 80's
+
+Awards & Festivals
+- The Oscars
+- Golden Globes
+- BAFTA
+- Cannes Film Festival
+- Venice Film Festival
+- Sundance Film Festival
+- Emmy's
+
+Film Collections
+- Harry Potter
+- Lord of the Rings
+- The Hobbit
+- Star Wars
+- James Bond
+- Mission Impossible
+- Indiana Jones
+- Jurassic Park
+- Fast & Furious
+- John Wick
+- The Matrix
+- Die Hard
+- Taken
+- Bourne
+- Oceans
+- Mad Max
+- Rambo
+- Expendables
+- Kingsman
+- Marvel Avengers
+- Captain America
+- Iron Man
+- Thor
+- Guardians of the Galaxy
+- Doctor Strange
+- Black Panther
+- Ant-Man
+- Deadpool
+- X-Men
+- Spider-Man
+- Wonder Woman
+- Aquaman
+- Superman
+- Batman
+- Justice League
+- Alien
+- Terminator
+- Predator
+- Halloween
+- Nightmare on Elm Street
+- Saw
+- Scream
+- Conjuring
+- Scary Movie
+- Planet of the Apes
+- Transformers
+- Hunger Games
+- Maze Runner
+- Pirates of the Caribbean
+- Shrek
+- Ice Age
+- How to Train Your Dragon
+- Despicable Me
+- Minions
+- Kung Fu Panda
+- Incredibles
+- Toy Story
+- Finding Nemo
+- Avatar
+- Back to the Future
+- Sherlock Holmes
+- Dune
+- The Godfather
+- Knives Out
+
+TV Channels
+- Cartoon Network
+- Nickelodeon
+- Food Network
+- Animal Planet
+- National Geographic
+- Adult Swim
+- Discovery
+- PBS
+- NBC
+- HGTV
+- History
+- TNT
+- BBC America
+- TLC
+- Travel Channel
+- VH1
+- TBS
+- truTV
+- Freeform
+- Science Channel
+- A&E
+- TCM
+- Bravo TV
+- Lifetime
+- DisneyNOW
+- USA Network
+- FYI Network
+- OXYGEN
+- Investigation Discovery
+
+Actors
+- Adam Sandler
+- Angelina Jolie
+- Brad Pitt
+- Christian Bale
+- Clint Eastwood
+- Denzel Washington
+- Jim Carrey
+- Johnny Depp
+- Leonardo DiCaprio
+- Margot Robbie
+- Matt Damon
+- Morgan Freeman
+- Robert De Niro
+- Robert Downey Jr
+- Ryan Gosling
+- Ryan Reynolds
+- Seth Rogen
+- Tom Cruise
+- Tom Hanks
+- Will Ferrell
+- Will Smith
+
+Directors
+- Christopher Nolan
+- Martin Scorsese
+- Steven Spielberg
+- Denis Villeneuve
+- David Fincher
+- Stanley Kubrick
+- Alfred Hitchcock
+- Wes Anderson
+
+Adam Sandler              | 19292
+Angelina Jolie            | 11701
+Brad Pitt                 | 287
+Christian Bale            | 3894
+Clint Eastwood            | 190
+Denzel Washington         | 5292
+Jim Carrey                | 206
+Johnny Depp               | 85
+Leonardo DiCaprio         | 6193
+Margot Robbie             | 234352
+Matt Damon                | 1892
+Morgan Freeman            | 192
+Robert De Niro            | 380
+Robert Downey Jr.         | 3223
+Ryan Gosling              | 30614
+Ryan Reynolds             | 10859
+Seth Rogen                | 19274
+Tom Cruise                | 500
+Tom Hanks                 | 31
+Will Ferrell              | 23659
+Will Smith                | 2888
+Christopher Nolan         | 525
+Martin Scorsese           | 1032
+Steven Spielberg          | 488
+Denis Villeneuve          | 137427
+David Fincher             | 7467
+Stanley Kubrick           | 240
+Alfred Hitchcock          | 2636
+Wes Anderson              | 5655
+Harry Potter Collection   | 1241
+The Making of The Lord of the Rings Collection | 1173608
+The Hobbit Collection     | 121938
+Star Wars Collection      | 10
+James Bond Collection     | 645
+Mission: Impossible Collection | 87359
+Indiana Jones Collection  | 84
+Jurassic Park Collection  | 328
+The Fast and the Furious Collection | 9485
+John Wick Collection      | 404609
+The Matrix Collection     | 2344
+Die Hard Collection       | 1570
+Taken Collection          | 135483
+The Bourne Collection     | 31562
+Ocean's Collection        | 304
+Mad Max Collection        | 8945
+Rambo Collection          | 5039
+The Expendables Collection | 126125
+Kingsman Collection       | 391860
+The Avengers Collection   | 86311
+Captain America Collection | 131295
+Iron Man Collection       | 131292
+Thor Collection           | 131296
+Guardians of the Galaxy Collection | 284433
+Doctor Strange Collection | 618529
+Black Panther Collection  | 529892
+Ant-Man Collection        | 422834
+Deadpool Collection       | 448150
+X-Men Collection          | 748
+Spider-Man Collection     | 556
+Wonder Woman Collection   | 468552
+Aquaman Collection        | 573693
+Superman Collection       | 8537
+Batman Collection         | 120794
+Justice League Dark Collection | 702342
+Alien Collection          | 8091
+The Terminator Collection | 528
+Predator Collection       | 399
+Halloween Collection      | 91361
+A Nightmare on Elm Street Collection | 8581
+Saw Collection            | 656
+Scream Collection         | 2602
+The Conjuring Collection  | 313086
+Scary Movie Collection    | 4246
+Planet of the Apes (Original) Collection | 1709
+Transformers Collection   | 8650
+The Hunger Games Collection | 131635
+The Maze Runner Collection | 295130
+Pirates of the Caribbean Collection | 295
+Shrek Collection          | 2150
+Ice Age Collection        | 8354
+How to Train Your Dragon Collection | 89137
+Despicable Me Collection  | 86066
+Minions Collection        | 544669
+Kung Fu Panda Collection  | 77816
+The Incredibles Collection | 468222
+Toy Story Collection      | 10194
+Finding Nemo Collection   | 137697
+Avatar Collection         | 87096
+Back to the Future Collection | 264
+Sherlock Holmes (Matt Frewer) Collection | 522048
+Dune Collection           | 726871
+The Godfather Collection  | 230
+Knives Out Collection     | 722971
+
+
+
+
+MATCH: Netflix
+----------------------
+networks/213-netflix/backdrops/213-netflix_t2_1080p.jpg
+networks/213-netflix/backdrops/213-netflix_t2_4k.jpg
+providers/175-netflix-kids/backdrops/175-netflix-kids_t2_1080p.jpg
+providers/175-netflix-kids/backdrops/175-netflix-kids_t2_4k.jpg
+providers/8-netflix/backdrops/8-netflix_t2_1080p.jpg
+providers/8-netflix/backdrops/8-netflix_t2_4k.jpg
+
+MATCH: Prime Video
+----------------------
+networks/1024-prime-video/backdrops/1024-prime-video_t2_1080p.jpg
+networks/1024-prime-video/backdrops/1024-prime-video_t2_4k.jpg
+providers/9-amazon-prime-video/backdrops/9-amazon-prime-video_t2_1080p.jpg
+providers/9-amazon-prime-video/backdrops/9-amazon-prime-video_t2_4k.jpg
+
+MATCH: Apple TV+
+----------------------
+networks/2552-apple-tv/backdrops/2552-apple-tv_t2_1080p.jpg
+networks/2552-apple-tv/backdrops/2552-apple-tv_t2_4k.jpg
+providers/350-apple-tv/backdrops/350-apple-tv_t2_1080p.jpg
+providers/350-apple-tv/backdrops/350-apple-tv_t2_4k.jpg
+
+MATCH: Disney+
+----------------------
+companies/2-walt-disney-pictures/backdrops/2-walt-disney-pictures_t2_1080p.jpg
+companies/2-walt-disney-pictures/backdrops/2-walt-disney-pictures_t2_4k.jpg
+networks/2739-disney/backdrops/2739-disney_t2_1080p.jpg
+networks/2739-disney/backdrops/2739-disney_t2_4k.jpg
+providers/337-disney-plus/backdrops/337-disney-plus_t2_1080p.jpg
+providers/337-disney-plus/backdrops/337-disney-plus_t2_4k.jpg
+
+MATCH: HBO Max
+----------------------
+providers/1899-hbo-max/backdrops/1899-hbo-max_t2_1080p.jpg
+providers/1899-hbo-max/backdrops/1899-hbo-max_t2_4k.jpg
+
+MATCH: Paramount+
+----------------------
+companies/4-paramount-pictures/backdrops/4-paramount-pictures_t2_1080p.jpg
+companies/4-paramount-pictures/backdrops/4-paramount-pictures_t2_4k.jpg
+networks/4330-paramount/backdrops/4330-paramount_t2_1080p.jpg
+networks/4330-paramount/backdrops/4330-paramount_t2_4k.jpg
+providers/2303-paramount-plus-premium/backdrops/2303-paramount-plus-premium_t2_1080p.jpg
+providers/2303-paramount-plus-premium/backdrops/2303-paramount-plus-premium_t2_4k.jpg
+
+MATCH: Peacock
+----------------------
+networks/3353-peacock/backdrops/3353-peacock_t2_1080p.jpg
+networks/3353-peacock/backdrops/3353-peacock_t2_4k.jpg
+providers/386-peacock-premium/backdrops/386-peacock-premium_t2_1080p.jpg
+providers/386-peacock-premium/backdrops/386-peacock-premium_t2_4k.jpg
+
+MATCH: Hulu
+----------------------
+networks/453-hulu/backdrops/453-hulu_t2_1080p.jpg
+networks/453-hulu/backdrops/453-hulu_t2_4k.jpg
+providers/15-hulu/backdrops/15-hulu_t2_1080p.jpg
+providers/15-hulu/backdrops/15-hulu_t2_4k.jpg
+
+MATCH: Crunchyroll
+----------------------
+companies/198847-crunchyroll/backdrops/198847-crunchyroll_t2_1080p.jpg
+companies/198847-crunchyroll/backdrops/198847-crunchyroll_t2_4k.jpg
+networks/1112-crunchyroll/backdrops/1112-crunchyroll_t2_1080p.jpg
+networks/1112-crunchyroll/backdrops/1112-crunchyroll_t2_4k.jpg
+providers/283-crunchyroll/backdrops/283-crunchyroll_t2_1080p.jpg
+providers/283-crunchyroll/backdrops/283-crunchyroll_t2_4k.jpg
+
+MATCH: Popular
+----------------------
+curated/popular-tv/backdrops/popular-tv_t2_1080p.jpg
+curated/popular-tv/backdrops/popular-tv_t2_4k.jpg
+curated/popular/backdrops/popular_t2_1080p.jpg
+curated/popular/backdrops/popular_t2_4k.jpg
+
+MATCH: Trending
+----------------------
+curated/trending/backdrops/trending_t2_1080p.jpg
+curated/trending/backdrops/trending_t2_4k.jpg
+
+MATCH: Animation
+----------------------
+companies/2251-sony-pictures-animation/backdrops/2251-sony-pictures-animation_t2_1080p.jpg
+companies/2251-sony-pictures-animation/backdrops/2251-sony-pictures-animation_t2_4k.jpg
+companies/2785-warner-bros-animation/backdrops/2785-warner-bros-animation_t2_1080p.jpg
+companies/2785-warner-bros-animation/backdrops/2785-warner-bros-animation_t2_4k.jpg
+companies/4859-nickelodeon-animation-studio/backdrops/4859-nickelodeon-animation-studio_t2_1080p.jpg
+companies/4859-nickelodeon-animation-studio/backdrops/4859-nickelodeon-animation-studio_t2_4k.jpg
+companies/521-dreamworks-animation/backdrops/521-dreamworks-animation_t2_1080p.jpg
+companies/521-dreamworks-animation/backdrops/521-dreamworks-animation_t2_4k.jpg
+
+MATCH: Marvel
+----------------------
+companies/420-marvel-studios/backdrops/420-marvel-studios_t2_1080p.jpg
+companies/420-marvel-studios/backdrops/420-marvel-studios_t2_4k.jpg
+
+MATCH: DC
+----------------------
+companies/429-dc/backdrops/429-dc_t2_1080p.jpg
+companies/429-dc/backdrops/429-dc_t2_4k.jpg
+
+MATCH: Studio Ghibli
+----------------------
+companies/10342-studio-ghibli/backdrops/10342-studio-ghibli_t2_1080p.jpg
+companies/10342-studio-ghibli/backdrops/10342-studio-ghibli_t2_4k.jpg
+
+MATCH: Pixar
+----------------------
+companies/3-pixar/backdrops/3-pixar_t2_1080p.jpg
+companies/3-pixar/backdrops/3-pixar_t2_4k.jpg
+
+MATCH: DreamWorks
+----------------------
+companies/521-dreamworks-animation/backdrops/521-dreamworks-animation_t2_1080p.jpg
+companies/521-dreamworks-animation/backdrops/521-dreamworks-animation_t2_4k.jpg
+companies/7-dreamworks-pictures/backdrops/7-dreamworks-pictures_t2_1080p.jpg
+companies/7-dreamworks-pictures/backdrops/7-dreamworks-pictures_t2_4k.jpg
+
+MATCH: A24
+----------------------
+companies/41077-a24/backdrops/41077-a24_t2_1080p.jpg
+companies/41077-a24/backdrops/41077-a24_t2_4k.jpg
+
+MATCH: Blumhouse
+----------------------
+companies/3172-blumhouse-productions/backdrops/3172-blumhouse-productions_t2_1080p.jpg
+companies/3172-blumhouse-productions/backdrops/3172-blumhouse-productions_t2_4k.jpg
+
+MATCH: Warner Bros
+----------------------
+companies/174-warner-bros-pictures/backdrops/174-warner-bros-pictures_t2_1080p.jpg
+companies/174-warner-bros-pictures/backdrops/174-warner-bros-pictures_t2_4k.jpg
+companies/2785-warner-bros-animation/backdrops/2785-warner-bros-animation_t2_1080p.jpg
+companies/2785-warner-bros-animation/backdrops/2785-warner-bros-animation_t2_4k.jpg
+
+MATCH: Universal
+----------------------
+companies/33-universal-pictures/backdrops/33-universal-pictures_t2_1080p.jpg
+companies/33-universal-pictures/backdrops/33-universal-pictures_t2_4k.jpg
+
+MATCH: Sony Pictures
+----------------------
+companies/2251-sony-pictures-animation/backdrops/2251-sony-pictures-animation_t2_1080p.jpg
+companies/2251-sony-pictures-animation/backdrops/2251-sony-pictures-animation_t2_4k.jpg
+companies/34-sony-pictures/backdrops/34-sony-pictures_t2_1080p.jpg
+companies/34-sony-pictures/backdrops/34-sony-pictures_t2_4k.jpg
+
+MATCH: Paramount
+----------------------
+companies/4-paramount-pictures/backdrops/4-paramount-pictures_t2_1080p.jpg
+companies/4-paramount-pictures/backdrops/4-paramount-pictures_t2_4k.jpg
+networks/4330-paramount/backdrops/4330-paramount_t2_1080p.jpg
+networks/4330-paramount/backdrops/4330-paramount_t2_4k.jpg
+providers/2303-paramount-plus-premium/backdrops/2303-paramount-plus-premium_t2_1080p.jpg
+providers/2303-paramount-plus-premium/backdrops/2303-paramount-plus-premium_t2_4k.jpg
+
+MATCH: 20th Century
+----------------------
+companies/127928-20th-century-studios/backdrops/127928-20th-century-studios_t2_1080p.jpg
+companies/127928-20th-century-studios/backdrops/127928-20th-century-studios_t2_4k.jpg
+
+MATCH: Lionsgate
+----------------------
+companies/1632-lionsgate/backdrops/1632-lionsgate_t2_1080p.jpg
+companies/1632-lionsgate/backdrops/1632-lionsgate_t2_4k.jpg
+
+MATCH: Cartoon Network
+----------------------
+companies/7899-cartoon-network-studios/backdrops/7899-cartoon-network-studios_t2_1080p.jpg
+companies/7899-cartoon-network-studios/backdrops/7899-cartoon-network-studios_t2_4k.jpg
+networks/56-cartoon-network/backdrops/56-cartoon-network_t2_1080p.jpg
+networks/56-cartoon-network/backdrops/56-cartoon-network_t2_4k.jpg
+
+MATCH: Nickelodeon
+----------------------
+companies/2348-nickelodeon-movies/backdrops/2348-nickelodeon-movies_t2_1080p.jpg
+companies/2348-nickelodeon-movies/backdrops/2348-nickelodeon-movies_t2_4k.jpg
+companies/4859-nickelodeon-animation-studio/backdrops/4859-nickelodeon-animation-studio_t2_1080p.jpg
+companies/4859-nickelodeon-animation-studio/backdrops/4859-nickelodeon-animation-studio_t2_4k.jpg
+companies/5371-nickelodeon-productions/backdrops/5371-nickelodeon-productions_t2_1080p.jpg
+companies/5371-nickelodeon-productions/backdrops/5371-nickelodeon-productions_t2_4k.jpg
+networks/13-nickelodeon/backdrops/13-nickelodeon_t2_1080p.jpg
+networks/13-nickelodeon/backdrops/13-nickelodeon_t2_4k.jpg
+
+MATCH: National Geographic
+----------------------
+companies/123388-national-geographic-channels-international/backdrops/123388-national-geographic-channels-international_t2_1080p.jpg
+companies/123388-national-geographic-channels-international/backdrops/123388-national-geographic-channels-international_t2_4k.jpg
+companies/7521-national-geographic/backdrops/7521-national-geographic_t2_1080p.jpg
+companies/7521-national-geographic/backdrops/7521-national-geographic_t2_4k.jpg
+networks/43-national-geographic/backdrops/43-national-geographic_t2_1080p.jpg
+networks/43-national-geographic/backdrops/43-national-geographic_t2_4k.jpg
+networks/6750-national-geographic/backdrops/6750-national-geographic_t2_1080p.jpg
+networks/6750-national-geographic/backdrops/6750-national-geographic_t2_4k.jpg
+
+MATCH: Adult Swim
+----------------------
+companies/6759-adult-swim/backdrops/6759-adult-swim_t2_1080p.jpg
+companies/6759-adult-swim/backdrops/6759-adult-swim_t2_4k.jpg
+networks/80-adult-swim/backdrops/80-adult-swim_t2_1080p.jpg
+networks/80-adult-swim/backdrops/80-adult-swim_t2_4k.jpg
+
+MATCH: Discovery
+----------------------
+networks/4353-discovery/backdrops/4353-discovery_t2_1080p.jpg
+networks/4353-discovery/backdrops/4353-discovery_t2_4k.jpg
+providers/520-discovery/backdrops/520-discovery_t2_1080p.jpg
+providers/520-discovery/backdrops/520-discovery_t2_4k.jpg
+
+MATCH: NBC
+----------------------
+networks/6-nbc/backdrops/6-nbc_t2_1080p.jpg
+networks/6-nbc/backdrops/6-nbc_t2_4k.jpg
+
+MATCH: History
+----------------------
+networks/65-history/backdrops/65-history_t2_1080p.jpg
+networks/65-history/backdrops/65-history_t2_4k.jpg
+
+MATCH: TBS
+----------------------
+networks/68-tbs/backdrops/68-tbs_t2_1080p.jpg
+networks/68-tbs/backdrops/68-tbs_t2_4k.jpg
+
+MATCH: A&E
+----------------------
+networks/129-a-e/backdrops/129-a-e_t2_1080p.jpg
+networks/129-a-e/backdrops/129-a-e_t2_4k.jpg
+
+MATCH: USA Network
+----------------------
+networks/30-usa-network/backdrops/30-usa-network_t2_1080p.jpg
+networks/30-usa-network/backdrops/30-usa-network_t2_4k.jpg
+
