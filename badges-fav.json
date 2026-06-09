@@ -16,6 +16,13 @@
     },
     {
       "borderColor": "#ffffff",
+      "color": "#4ECDC4",
+      "id": "gg",
+      "isExpanded": true,
+      "name": "Codex"
+    },
+    {
+      "borderColor": "#ffffff",
       "color": "#FF6B6B",
       "id": "gv",
       "isExpanded": true,
@@ -127,7 +134,7 @@
       "tagStyle": "bordered",
       "textColor": "#FF9A3D",
       "type": "filter",
-      "borderColor": "#ffff00"
+      "borderColor": "#92fe90"
     },
     {
       "groupId": "gr",
@@ -140,7 +147,33 @@
       "tagStyle": "bordered",
       "textColor": "#FF9A3D",
       "type": "filter",
-      "borderColor": "#ff0000"
+      "borderColor": "#ffffff"
+    },
+    {
+      "id": "gg-hevc",
+      "name": "HEVC",
+      "groupId": "gg",
+      "isEnabled": true,
+      "pattern": "(?i)\\b(?:x265|h[._-]?265|hevc)\\b",
+      "imageURL": "",
+      "tagColor": "#1A1A1A",
+      "borderColor": "#ff0000",
+      "textColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "type": "filter"
+    },
+    {
+      "id": "gg-AVC",
+      "name": "AVC",
+      "groupId": "gg",
+      "isEnabled": true,
+      "pattern": "(?i)\b(?:x264|h[._-]?264|avc)\b",
+      "imageURL": "",
+      "tagColor": "#1A1A1A",
+      "borderColor": "#ffff00",
+      "textColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "borderColor": "#bc1eff",
