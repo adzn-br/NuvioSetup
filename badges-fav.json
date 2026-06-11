@@ -150,32 +150,6 @@
       "borderColor": "#ffffff"
     },
     {
-      "id": "gg-hevc",
-      "name": "HEVC",
-      "groupId": "gg",
-      "isEnabled": true,
-      "pattern": "(?i)\\b(?:x265|h[._-]?265|hevc)\\b",
-      "imageURL": "https://github.com/adzn-br/NuvioSetup/blob/main/badges/hevc.png?raw=true",
-      "tagColor": "#1A1A1A",
-      "borderColor": "#ff0000",
-      "textColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
-      "id": "gg-AVC",
-      "name": "AVC",
-      "groupId": "gg",
-      "isEnabled": true,
-      "pattern": "(?i)\b(?:x264|h[._-]?264|avc)\b",
-      "imageURL": "https://github.com/adzn-br/NuvioSetup/blob/main/badges/avc.png?raw=true",
-      "tagColor": "#1A1A1A",
-      "borderColor": "#ffff00",
-      "textColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
       "borderColor": "#bc1eff",
       "groupId": "gv",
       "id": "v-seadex",
