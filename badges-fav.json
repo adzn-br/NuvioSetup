@@ -163,6 +163,19 @@
       "type": "filter"
     },
     {
+      "borderColor": "#ff00d0",
+      "groupId": "gv",
+      "id": "b-itvbzx",
+      "imageURL": "",
+      "isEnabled": true,
+      "name": "AnoZu",
+      "pattern": "(?i)(?:anozu|ᴀɴᴏᴢᴜ)",
+      "tagColor": "#00000000",
+      "tagStyle": "bordered",
+      "textColor": "#ffffff",
+      "type": "filter"
+    },
+    {
       "borderColor": "#00ffee",
       "groupId": "gv",
       "id": "a-dv",
