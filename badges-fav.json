@@ -169,7 +169,7 @@
       "imageURL": "",
       "isEnabled": true,
       "name": "AnoZu",
-      "pattern": "(?i)(?:anozu|ᴀɴᴏᴢᴜ)",
+      "pattern": "(?i)\banozu\b|ᴀɴᴏᴢᴜ",
       "tagColor": "#00000000",
       "tagStyle": "bordered",
       "textColor": "#ffffff",
