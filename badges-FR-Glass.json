@@ -30,7 +30,7 @@
       "id": "hero-dolby-vision",
       "groupId": "hero",
       "name": "Dolby Vision",
-      "pattern": "(?is)^.*?\b(dolby[\s._-]*vision|dovi|dv)\b",
+      "pattern": "(?is)^.*?\\b(dolby[\\s._-]*vision|dovi|dv)\\b"
       "imageURL": "https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/Badges/hero-dv.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
