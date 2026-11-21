@@ -105,45 +105,6 @@
       "type": "filter"
     },
     {
-      "id": "source-dvd",
-      "groupId": "source",
-      "name": "DVD / DVDRip",
-      "pattern": "(?is)^(?:(?!(?:\\b(uhd[\\s._-]*blu-?ray|4k[\\s._-]*blu-?ray)\\b|\\bweb-?dl\\b|\\bweb-?rip\\b|\\bhdtv\\b|\\btvrip\\b|\\b(blu-?ray|bdrip|brrip)\\b)).)*?\\b(dvd|dvdrip)\\b",
-      "imageURL": "https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/Badges/source-dvd.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "source-webdl",
-      "groupId": "source",
-      "name": "WEB-DL",
-      "pattern": "(?is)^(?:(?!(?:\\b(uhd[\\s._-]*blu-?ray|4k[\\s._-]*blu-?ray)\\b|\\bweb-?rip\\b|\\bhdtv\\b|\\b(dvd|dvdrip)\\b|\\btvrip\\b|\\b(blu-?ray|bdrip|brrip)\\b)).)*?\\bweb-?dl\\b",
-      "imageURL": "https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/Badges/source-webdl.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "source-webrip",
-      "groupId": "source",
-      "name": "WEBRip",
-      "pattern": "(?is)^(?:(?!(?:\\b(uhd[\\s._-]*blu-?ray|4k[\\s._-]*blu-?ray)\\b|\\bweb-?dl\\b|\\bhdtv\\b|\\b(dvd|dvdrip)\\b|\\btvrip\\b|\\b(blu-?ray|bdrip|brrip)\\b)).)*?\\bweb-?rip\\b",
-      "imageURL": "https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/Badges/source-webrip.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
       "id": "dr-dolby-vision",
       "groupId": "dynamic-range",
       "name": "Dolby Vision",
